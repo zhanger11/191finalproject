@@ -2,4 +2,9 @@
 
 cd /home/git/tmp
 unset GIT_DIR
+rm index.html
 git pull origin master
+
+cat ZHANGKA_proc_fun.txt > index.html
+echo "<br>" >> index.html
+./zhangka.o >> index.html
