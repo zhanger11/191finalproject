@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd /home/git/tmp
+unset GIT_DIR
+git pull origin master

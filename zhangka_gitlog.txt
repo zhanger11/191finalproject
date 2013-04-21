@@ -1,0 +1,149 @@
+commit 93ec9c9067cd80966ed029bf94a27716c82e3887
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:41:02 2013 -0700
+
+    final
+
+commit 22fea7ebae27e9a25bcca03f6f828db4bfaee790
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:36:28 2013 -0700
+
+    final
+
+commit 2ea4a4a33d730775a68c94052d86587e7221fc10
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:35:35 2013 -0700
+
+    yes
+
+commit f7b98cdfffbc1f6a8f210c9927e58dcefcecb153
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:34:53 2013 -0700
+
+    nope
+
+commit 21eaa68da1c7820ae908b42ff0d9c8166fcacee5
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:32:42 2013 -0700
+
+    run script?
+
+commit 3d39315750b5a0404dceb911d78f2e519bbc74c2
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:31:22 2013 -0700
+
+    added space for txt
+
+commit 581b77de0b69fad41d57161deea22e83cf4a0509
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:29:08 2013 -0700
+
+    ?
+
+commit 8c66e50197e81e6db77f1ea437d35394392c11f5
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:18:05 2013 -0700
+
+    fml
+
+commit 9a1143ddc720ababb18239979ffda4425d0a9738
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:17:14 2013 -0700
+
+    lol
+
+commit ada89119ba0e0c38c0a4638a69e75b1825e98e13
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:13:52 2013 -0700
+
+    yes
+
+commit fda1cfa31878e6f8b595c224c2930322db498863
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 21:06:03 2013 -0700
+
+    yea
+
+commit c9916bc0bc348359ef2b02f7e5ecf84188625a19
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 20:55:28 2013 -0700
+
+    more
+
+commit 74df05144afc5f217d733da0654ec39f55c67234
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 20:53:07 2013 -0700
+
+    another
+
+commit 97d3d7146c409073f5c2b61e687d91ddfcf934e3
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 20:51:54 2013 -0700
+
+    another try
+
+commit daaab10a2b76507ed2b0573d56d73f5470de0504
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 20:48:52 2013 -0700
+
+    please work
+
+commit f464f1444d7e354265a4b9239a1b36a5f04f262e
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 20:40:10 2013 -0700
+
+    yea deleted
+
+commit 8e01d845480828dd82c7c817fe61ac3fa13ba499
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 20:39:19 2013 -0700
+
+    what
+
+commit 0a6c27e09c469dced53f207397569eb0b02aeebe
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 19:50:02 2013 -0700
+
+    proc_fun
+
+commit 0021321cec1ebfdc7d214da5a34338a590291b14
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 19:21:36 2013 -0700
+
+    what
+
+commit 575e2c743bbe673ddd45bbb2a8eaf082198ecc1a
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 15:03:46 2013 -0700
+
+    deleted some more
+
+commit 11ff88806a6d5b510e4f7f585e3d5ef331f5658d
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 15:00:07 2013 -0700
+
+    deleted folder of shit
+
+commit 5d6a43f30ece05f73bc27f5510e0320077109248
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 14:03:29 2013 -0700
+
+    yes
+
+commit 8fcb32c416d894dc269543a95a51c2e6d13f9f0d
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 13:43:13 2013 -0700
+
+    deleted
+
+commit 45a0d0d239fae062387770d7d111f9a336da5729
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Sat Apr 20 13:39:58 2013 -0700
+
+    yuup
+
+commit 4caa2defbf76a57a5392ec4bb7404b3383f01a82
+Author: Alex Zhang <zhang@ubuntu.(none)>
+Date:   Fri Apr 19 12:08:01 2013 -0700
+
+    initial commit
